@@ -3,6 +3,6 @@ using __springBoot__,__mysql__, and __react__ with __node__ to implement a baisc
 # The SpringBoot content is in master branch
 # The React content is in react branch
 # The mysql is only stored the data as the form with string type
-name : ""
+name : "" /n
 username : ""
 email : "" 
